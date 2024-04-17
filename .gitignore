@@ -1,0 +1,15 @@
+# Editors
+.idea/
+.vscode/
+
+# Mac/OSX
+.DS_Store
+
+# Pem Files
+*.pem
+
+# Lic Files
+*.lic
+
+# Cache
+__pycache__
